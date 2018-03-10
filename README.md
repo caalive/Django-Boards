@@ -4,7 +4,7 @@
 
 1. Part 1 - Getting Started    ==>  Done!
 1. Part 2 - Fundamentals       ==>  Done!
-1. Part 3 - Advanced Concepts
+1. Part 3 - Advanced Concepts  ==>  Done!
 1. Part 4 - Authentication
 1. Part 5 - Django ORM
 1. Part 6 - Class-Based Views

@@ -25,5 +25,3 @@ class Post(models.Model):
     created_by = models.ForeignKey(User, on_delete=models.CASCADE, related_name='posts')
     updated_by = models.ForeignKey(User, on_delete=models.CASCADE, null=True, related_name='+')
 
-
-# Create your models here.
